@@ -1,0 +1,18 @@
+{
+    "timestamp": "20251203_123101",
+    "random_state": 42,
+    "best_model": "XGBoost + TabNet",
+    "dataset_size": 5110,
+    "train_size": 3576,
+    "val_size": 1022,
+    "test_size": 511,
+    "n_features": 17,
+    "class_imbalance_ratio": 19.518072289156628,
+    "test_metrics": {
+        "Accuracy": 0.8669275929549902,
+        "Precision": 0.19718309859154928,
+        "Recall": 0.56,
+        "F1-Score": 0.2916666666666667,
+        "ROC-AUC": 0.8251028806584362
+    }
+}
