@@ -1,0 +1,6 @@
+,Accuracy_Rank,Precision_Rank,Recall_Rank,F1-Score_Rank,ROC-AUC_Rank,Average_Rank
+SVM (Pipeline),1.0,1.0,3.0,2.0,2.0,1.8
+XGBoost + SVM,3.0,2.0,1.5,1.0,4.0,2.3
+TabNet,2.0,3.0,4.5,3.0,1.0,2.7
+XGBoost + TabNet,4.0,4.0,1.5,4.0,3.0,3.3
+XGBoost,5.0,5.0,4.5,5.0,5.0,4.9
